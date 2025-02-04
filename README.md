@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salom! 👋 Men Muhammadziyo  
+### Flutter Developer  
 
-<!--
-**MuhammadziyoAdkhamov/MuhammadziyoAdkhamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 Flutter bilan mobil ilovalar yarataman  
+- 🔥 Dart  bilan ishlayman  
+- 🚀 Open-source loyihalarda qatnashaman  
 
-Here are some ideas to get you started:
+## Portfolio loyihalarim  
+| Loyihalar | Tavsif | Havola |
+|-----------|--------|--------|
+| Weather App | Ob-havo dasturi | GitHub (https://github.com/MuhammadziyoAdkhamov) |
+| Task Manager | Vazifalarni boshqarish ilovasi | GitHub (https://github.com/MuhammadziyoAdkhamov) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Menga bog‘lanish  
+📧 Email: muhammadziyofficial@gmail.com  
+ 
