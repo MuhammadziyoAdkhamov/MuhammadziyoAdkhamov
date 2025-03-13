@@ -3,7 +3,6 @@
 
 - 📱 Flutter bilan mobil ilovalar yarataman  
 - 🔥 Dart  bilan ishlayman  
-- 🚀 Open-source loyihalarda qatnashaman  
 
 ## Portfolio loyihalarim  
 | Loyihalar | Tavsif | Havola |
@@ -12,5 +11,6 @@
 | Task Manager | Vazifalarni boshqarish ilovasi | GitHub (https://github.com/MuhammadziyoAdkhamov) |
 
 ## Menga bog‘lanish  
+🪪📎 with Telegram: https://t.me/Muhammadziyofficial
 📧 Email: muhammadziyofficial@gmail.com  
  
