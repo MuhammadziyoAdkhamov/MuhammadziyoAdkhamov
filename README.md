@@ -7,7 +7,7 @@
 ## Portfolio loyihalarim  
 | Loyihalar | Tavsif | Havola |
 |-----------|--------|--------|
-| Weather App | Ob-havo dasturi | GitHub (https://github.com/MuhammadziyoAdkhamov) |
+| ToDo App | TODO Qaydlar dasturi | GitHub (https://github.com/MuhammadziyoAdkhamov/ToDo-APP) |
 | Task Manager | Vazifalarni boshqarish ilovasi | GitHub (https://github.com/MuhammadziyoAdkhamov) |
 
 ## Menga bog‘lanish  
